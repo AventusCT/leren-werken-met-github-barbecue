@@ -21,7 +21,7 @@ table {
 }
 
 table, th, td {
-    border: 5px solid #000000;
+    border: 10px solid #0acc17;
 }
 
 th, td {
@@ -55,5 +55,5 @@ li a {
 }
 
 li a:hover {
-    background-color: darkblue;
+    background-color: rgb(221, 27, 199);
 }
